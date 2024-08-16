@@ -230,7 +230,7 @@ p {
   background-image: url('../images/98A2AF03-4D6D-4B82-9B2E-13B5FC239444.jpeg'), linear-gradient(#2e9dff80, #2e9dff38);
   background-position: 0 0, 0 0;
   background-size: auto, auto;
-  border-bottom: 4px solid #69b9ff;
+  border-bottom: 4px solid #fbb111;
   padding-top: 195px;
   padding-bottom: 195px;
 }
@@ -285,14 +285,13 @@ p {
 }
 
 .hollow-button:hover {
-  color: #2e9dff;
-  border-color: #2e9dff;
+  color: #fed90b;
+  border-color: #e5b20b;
 }
 
 .hollow-button.all-caps {
   outline-offset: 0px;
-  text-transform: uppercase;
-  background-color: #221a0d;
+  background-color: #000;
   border-color: #fff;
   outline: 1px solid #fff;
 }
